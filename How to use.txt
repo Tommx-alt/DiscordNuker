@@ -1,0 +1,11 @@
+It's really easy to use:
+
+1. You put your own token;
+
+2. Put the discord server id that you wanna nuke;
+
+3. Put a channel id (obviously that is in the discord server that you used before);
+
+4. Put the message that you wanna spam. 
+
+⚠️DO YOU WANNA TAG EVERYONE? IN THE 4 STEP, WRITE {everyone}⚠️
