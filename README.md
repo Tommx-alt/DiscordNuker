@@ -17,7 +17,7 @@ https://discord.gg/pUkAkSaAmf
 https://discord.gg/pUkAkSaAmf
 
 
-![image](https://github.com/user-attachments/assets/e1336df4-b689-4d2f-9b29-5a3eb786ccbe)
+![image](https://github.com/user-attachments/assets/e425ed5e-b3af-4942-a6dc-1af873e5ef3c)
 ![image](https://github.com/user-attachments/assets/ef2695f9-3e71-45f2-85ad-108636c1ee02)
 ![image](https://github.com/user-attachments/assets/b3dc4043-f8e2-439f-9e98-0609c003eca1)
 
