@@ -10,13 +10,6 @@ Anything should work, but if you put your tok3n and it crash, do this:
 
 Credit:
 
-https://discord.gg/pUkAkSaAmf
-https://discord.gg/pUkAkSaAmf
-https://discord.gg/pUkAkSaAmf
-https://discord.gg/pUkAkSaAmf
-https://discord.gg/pUkAkSaAmf
-
-
 ![image](https://github.com/user-attachments/assets/e425ed5e-b3af-4942-a6dc-1af873e5ef3c)
 ![image](https://github.com/user-attachments/assets/b3dc4043-f8e2-439f-9e98-0609c003eca1)
 
